@@ -16,6 +16,7 @@ To run the project, use the following command:
 
 ```bash
 streamlit run main.py
+```
 
 Model should be pretrained and open to running
 
