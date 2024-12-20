@@ -12,7 +12,7 @@
 **Applications**: imGPT is ideal for accessibility tools, content moderation, automated image tagging for social media, and enhancing workflows in fields such as digital marketing and e-commerce.
 
 To run, download github zip, cd to main, and run
-streamlit run main.sh
+''' streamlit run main.py '''
 
 Model should be pretrained and open to running
 
