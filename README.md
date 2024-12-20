@@ -12,8 +12,9 @@
 **Applications**: imGPT is ideal for accessibility tools, content moderation, automated image tagging for social media, and enhancing workflows in fields such as digital marketing and e-commerce.
 
 ## Usage
-To run, download github zip, cd to main, and run
-''' bash
+To run the project, use the following command:
+
+```bash
 streamlit run main.py
 
 Model should be pretrained and open to running
